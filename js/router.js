@@ -100,13 +100,7 @@ define([
         $("#home").addClass("active");
         $("#about").removeClass("active");
 
-        $("#loading").show();
-        //$("#content").hide();
-
-        mainSearchView.render();
-
-        //$("#content").show();
-        $("#loading").hide();
+        location.hash = "#details/51377C496818552E263583A44C796DF3FB0BC71B"
     }
 
   });

@@ -1,3 +1,8 @@
+.brand {
+    margin: 10px 0;
+    font-weight: bolder;
+}
+
 .graph {
     width: 550px;
     height: 362px;
